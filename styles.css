@@ -121,7 +121,7 @@ body{
 
 .offer-container{
     width: 100vw;
-    height: 1200px;
+    height: fit-content;
     padding-top: 100px;
 }
 
@@ -154,7 +154,7 @@ body{
 
 .offer-column{
     width:500px;
-    height: fit-content;
+    height: 800px;
     background-color: aliceblue;
     padding:0px;
     border-radius:20px;
