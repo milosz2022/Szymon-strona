@@ -149,7 +149,6 @@ body{
     padding-top:30px;
     padding-bottom:30px;
     margin-bottom:0px;
-    border-radius: 19px 19px 0px 0px;
 }
 
 .offer-column{
@@ -157,7 +156,6 @@ body{
     height: 800px;
     background-color: aliceblue;
     padding:0px;
-    border-radius:20px;
 }
 
 .offer-image{
